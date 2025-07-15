@@ -5,7 +5,17 @@
 
 
 ###
+<h5>
+  
+A dynamic IT Technician with a passion for technology and a knack for problem-solving. My time at Telkom continues to sharpen my marketing and digital strategy skills, while my certifications in Microsoft Azure, Artificial Intelligence, Cybersecurity, IT Support, and Full Stack Development have equipped me with a well-rounded technical foundation to tackle complex challenges confidently.
 
+In addition, as a versatile Virtual Assistant, I excel in managing calendars, scheduling appointments, conducting thorough research, and crafting compelling presentations. I'm also skilled in project management, travel planning, and data entry—ensuring smooth, efficient, and organized operations.
+
+I'm confident in my ability to communicate effectively, prioritize tasks, and find innovative solutions. So,Feel free to reach out if any of my skills resonate with your needs. 
+
+Thanks again!
+
+<h5/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
