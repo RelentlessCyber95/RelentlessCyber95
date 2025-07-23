@@ -7,7 +7,7 @@
 ###
 <h5>
   
-I'm a dynamic IT Technician with a passion for technology and a knack for problem-solving. My time at Telkom continues to sharpen my marketing and digital strategy skills, while my certifications in Microsoft Azure, Artificial Intelligence, Cybersecurity, IT Support, and Full Stack Development have equipped me with a well-rounded technical foundation to tackle complex challenges confidently.
+I'm a dynamic IT Technician with a passion for technology and a knack for problem-solving. My time at Telecomunications Company continues to sharpen my marketing and digital strategy skills, while my certifications in Microsoft Azure, Artificial Intelligence, Cybersecurity, IT Support, and Full Stack Development have equipped me with a well-rounded technical foundation to tackle complex challenges confidently.
 
 In addition, as a versatile Virtual Assistant, I excel in managing calendars, scheduling appointments, conducting thorough research, and crafting compelling presentations. I'm also skilled in project management, travel planning, and data entry—ensuring smooth, efficient, and organized operations.
 
